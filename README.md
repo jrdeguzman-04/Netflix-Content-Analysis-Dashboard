@@ -1,125 +1,66 @@
  
-# 📊 Netflix Content Analysis Dashboard
+# Netflix Content Analysis Dashboard
 
 An Excel dashboard that analyzes Netflix's content library using charts and data visualization to find patterns and trends.
 
-![Dashboard Preview](images/dashboard_overview.png)
+<img width="1130" height="340" alt="netflix-dashboard" src="https://github.com/user-attachments/assets/d4d3c0b0-7c1a-4017-978a-3ac56efcf0c0" />
 
----
-
-## 📌 Project Objective
+## Project Objective
 The objective of this project is to explore Netflix’s catalog of **8,807 titles** and uncover insights about:
-- The balance between **movies and TV shows**
-- **Content ratings** and audience targeting
-- **Growth trends** in releases over time
-- **Geographic distribution** of Netflix content  
+- The balance between movies and TV shows
+- Content ratings and audience targeting
+- Growth trends in releases over time
+- Geographic distribution of Netflix content  
 
 This project demonstrates my ability to use **Excel** for:
 - Data cleaning and preparation
 - Pivot tables and chart creation
 - Dashboard design and storytelling with data
 
----
-
-## 📂 Dataset Used
+## Dataset Used
 - **Source**: Netflix titles dataset (8,807 entries) - <a href="https://github.com/jrdeguzman-04/Netflix-Content-Analysis-Dashboard/blob/main/netflix-analysis.xlsm">Netlflix titles<a/> 
 
-## ❓ Key Questions (KPIs)
+## Key Questions (KPIs)
 1. How many titles are available on Netflix?  
-2. What is the split between **Movies vs TV Shows**?  
-3. Which **ratings** dominate the catalog?  
-4. What are the **most popular genres**?  
-5. Which **countries** contribute the most content?  
-6. How has Netflix’s content library grown **over time**?  
-
----
-
-## 📊 Dashboard
+2. What is the split between Movies vs TV Shows?  
+3. Which ratings dominate the catalog?  
+4. What are the most popular genres?  
+5. Which countries contribute the most content?  
+6. How has Netflix’s content library grown over time?
+   
+## Dashboard
 The Excel dashboard includes:
 - Pie chart: **Movies vs TV Shows**
 - Bar chart: **Ratings distribution**
 - Line chart: **Content growth by year**
 - Bar chart: **Top contributing countries**
-- Filters & slicers: Interactive exploration by year, genre, and country  
+- Filters & slicers: Interactive exploration by year, type, and country  
 
 📸 **Screenshots**
-- ![Dashboard Overview](images/dashboard_overview.png)
-- ![Movies vs TV Shows](images/content_distribution.png)
-- ![Ratings Analysis](images/ratings_analysis.png)
-- ![Yearly Trends](images/yearly_trends.png)
-- ![Country Analysis](images/geographic_analysis.png)
+<img width="1130" height="504" alt="4chartswithslicers" src="https://github.com/user-attachments/assets/f1f2be6a-902e-418b-bacc-5b8b4956880f" />
 
----
+## Project Insights  
 
-## 🔍 Key Insights
+- Most of Netflix’s titles are movies (69%), while TV shows (31%)** make up the rest.  
+- The most common ratings are TV-MA (for adults) and TV-14 (for teens and young adults).  
+- Content ranges from 1925 to 2021, but the fastest growth happened in the 2010s when Netflix expanded worldwide.  
+- The United States has the most titles, but India, UK, and Canada also add a lot of content.  
+- International movies are increasing, showing Netflix’s effort to reach more global viewers.  
 
-### Content Overview
-- **Total Titles**: 8,807  
-- **Movies**: 6,131 (≈69%)  
-- **TV Shows**: 2,676 (≈31%)  
 
-### Audience Targeting
-- **Most Common Ratings**:  
-  - TV-MA → Mature audiences  
-  - TV-14 → Teen/young adult audiences  
+## Tools & Skills Used
+- **Excel**: Data cleaning, pivot tables, slicers, and charts  
+- **Data Analysis**: Finding patterns, growth, and audience focus  
+- **Dashboard Design**: Creating an interactive and clear report  
 
-### Growth Trends
-- Content spans from **1925 to 2021**  
-- Strong growth from **2010s onward**, reflecting Netflix’s global expansion  
+## Key Learnings
+- Learned how to prepare and clean real-world datasets  
+- Turned raw data into interactive dashboards  
+  
+##  Next Steps
+- Recreate the dashboard using **Power BI** or **Tableau**  
+- Explore deeper analysis (e.g., common directors, genre clustering)  
+- Automate data updates for real-time dashboards  
 
-### Geographic Distribution
-- **Top Country**: United States  
-- Significant contributions from **India, UK, Canada**, and other regions  
-- Genre analysis shows growth in **International Movies**  
 
----
 
-## ✅ Conclusion & Improvements
-Netflix’s catalog strategy is clear:  
-- Heavy focus on **movies** (≈70% of catalog)  
-- Content skewed toward **mature audiences**  
-- Strong **global expansion**, especially in international genres  
-- Growth in titles accelerates in the **2010s**, aligning with Netflix’s original content push  
-
-### 🔧 Possible Improvements
-- **Deeper Genre Analysis**: Break down by comedy, drama, action, etc.  
-- **Ratings & Quality**: Add IMDb/Rotten Tomatoes scores  
-- **Seasonality**: Analyze release patterns by month/quarter  
-- **Content Duration**: Explore movie runtimes and series length  
-
----
-
-## 🛠️ How I Built This
-- **Tool**: Microsoft Excel  
-- **Data Work**: Pivot tables, formulas, data cleaning  
-- **Charts**: Excel built-in charts (line, bar, pie)  
-- **Dashboard Design**: Slicers for interactivity, Netflix brand colors (red & black)  
-
----
-
-## 📈 Why This Project Matters
-### For Learning
-- Shows how to transform raw data into insights  
-- Demonstrates dashboard design & interactivity in Excel  
-
-### For Business
-- Provides insights into **Netflix’s content strategy**  
-- Highlights **market trends** in streaming  
-
-### For Career Development
-- Demonstrates **Excel proficiency**  
-- Proves ability to design **dashboards for stakeholders**  
-- Shows analytical thinking & business storytelling  
-
----
-
-## 🎯 Skills Demonstrated
-- **Data Analysis**: Finding patterns and trends in large datasets  
-- **Excel Skills**: Pivot tables, advanced charts, slicers, dashboard design  
-- **Business Thinking**: Linking data findings to strategy  
-- **Data Storytelling**: Presenting insights in a structured, visual way  
-- **Documentation**: Writing professional project reports  
-
----
-
-📌 *This project highlights my ability to analyze real-world data, design dashboards, and deliver insights that connect data to business decisions.*
