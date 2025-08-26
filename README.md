@@ -1,2 +1,2 @@
-# Netflix-Content-Analysis-Dashboard
-I processed and cleaned Netflix content data, then built an interactive Excel dashboard with data visualizations showing movies vs TV shows, rating distributions, release trends, and global content patterns.
+Netflix Content Analysis Dashboard
+An Excel dashboard that analyzes Netflix's content library using charts and data visualization to find patterns and trends.
